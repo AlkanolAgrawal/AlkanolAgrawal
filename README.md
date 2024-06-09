@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlkanolAgrawal
-- 👀 I’m interested in coding and socialising
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in coding and gaming
+- 🌱 I’m currently learning kuchh nhi
 
 
 <!---
