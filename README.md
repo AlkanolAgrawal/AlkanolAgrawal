@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Alkanol_Agrawal
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Bahut kuchh
-- 
-
-
-<!---
-AlkanolAgrawal/AlkanolAgrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, My name is Rohan Agrawal 
+I prefer to call myself Alkanol...
+Gaming and the UserName of this account are the only 2 things that i love 
+This gitHub account is just my trash can , Hope u can find your gold here  
