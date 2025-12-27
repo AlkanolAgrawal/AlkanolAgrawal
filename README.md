@@ -24,8 +24,5 @@ Pinned repositories represent my **best engineering work**:
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/AlkanolAgrawal  
-- LinkedIn: *(add link)*  
-- Email: *(add email)*
-
-> GitHub is my engineering workspace — quality over quantity.
+- GitHub: https://github.com/AlkanolAgrawal
+- Email: rohanagrawall2004@gmail.com
